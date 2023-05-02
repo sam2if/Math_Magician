@@ -46,6 +46,9 @@
 
 ### Key Features <a name="key-features"></a>
 
+- **Use JSX**
+- **Use React**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -117,8 +120,12 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-
+- [ ] **[Components ]**
+- [ ] **[Events ]**
+- [ ] **[Fetch data from API.]**
+- [ ] **[Full website.]**
+- [ ] **[Tests ]**
+- [ ] **[Deploy. ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
