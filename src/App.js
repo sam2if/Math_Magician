@@ -1,11 +1,4 @@
-import Myname from './components/claculator.js'
-function MyButton() {
-  return (
-      <button>
-        I'm a button
-      </button>
-  );
-}
+import Myname from './components/claculator';
 
 export default function MyApp() {
   return (
