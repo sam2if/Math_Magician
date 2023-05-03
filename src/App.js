@@ -1,5 +1,4 @@
 import Calculator from './components/calculator';
-import Myname from './components/calculator';
 
 export default function MyApp() {
   return (
