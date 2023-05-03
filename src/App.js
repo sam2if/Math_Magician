@@ -1,9 +1,10 @@
-import Myname from './components/claculator';
+import Calculator from './components/calculator';
+import Myname from './components/calculator';
 
 export default function MyApp() {
   return (
     <div className="mul">
-      <Myname />
+      <Calculator />
     </div>
   );
 }

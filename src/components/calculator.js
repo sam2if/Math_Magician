@@ -1,4 +1,4 @@
-export default function Myname() {
+export default function Calculator() {
   return (
     <div className="container">
       <div className="display0"><span>0</span></div>
