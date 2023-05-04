@@ -1,9 +1,13 @@
-import Calculator from './components/calculator';
+import './App.css';
+import React from 'react';
+import Calculator from './components/MyCalculator';
 
-export default function MyApp() {
+function App() {
   return (
-    <div className="mul">
+    <div className="App">
       <Calculator />
     </div>
   );
 }
+
+export default App;
